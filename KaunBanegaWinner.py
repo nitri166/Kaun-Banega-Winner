@@ -7,11 +7,6 @@ def func1(AnsList):
         print(AnsList[ans])
 
 
-#print("Kaun banega Winner")
-#choice = input("If you want to play, press \'y' else 'n' : \n")
-# if choice == 'y':
-#     print("Lets Play")
-# money = 0
 
 Ans1 = [
     "A.	Tamil",
@@ -38,6 +33,7 @@ Ans2 = [
     "C.  Rameshwaram. Purl, Badrinath. Dwarika",
 
     "D.	Chittakoot, Ujjain, Prayag,Haridwar"]
+
 Questions = ["The language of Lakshadweep. a Union Territory of India, is ",
              "In which group of places the Kumbha Mela is held every twelve years? ", "Pongal is a popular festival of which state?"]
 
